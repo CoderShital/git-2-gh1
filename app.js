@@ -1,1 +1,1 @@
-//need to add somthing more in html as well ad js .
+//resolving due to occurence of conflict due to same change in same file that is app.js
