@@ -1,1 +1,1 @@
-let view = document.querySelector("body");
+//resolving due to occurence of conflict due to same change in same file that is app.js
